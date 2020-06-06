@@ -26,7 +26,7 @@ git rebase HEAD~[x number of commits you made] -i
 ```
 ## Make edits during interactive session
 See the image below for what you will see in your editor or terminal
-![Image of terminal](images/InteractiveRebase.PNG)
+![Image of terminal](/images/InteractiveRebase.PNG)
 
 The options I chose above will do the following
 1. `reword` - open a terminal to reword the commit message, then adds it to the `work in progress` rebase
